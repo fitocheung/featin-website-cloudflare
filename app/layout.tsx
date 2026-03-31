@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_HK",
     alternateLocale: ["zh-Hant"],
-    url: "https://hkfeatin.com",
+    url: "https://www.852featin.com",
     siteName: "HK Feat In Technology",
     title: "HK Feat In Technology | Hong Kong Surgical Instruments Supplier",
     description:

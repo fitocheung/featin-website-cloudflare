@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://hkfeatin.com/sitemap.xml
+Sitemap: https://www.852featin.com/sitemap.xml
 
 # Crawl-delay (optional)
 Crawl-delay: 1
