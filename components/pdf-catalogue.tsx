@@ -7,10 +7,10 @@ import { useLanguage } from "@/lib/language-context"
 import { Button } from "@/components/ui/button"
 
 const catalogueHrefs = [
-  "https://www.852featin.com/new/wp-content/uploads/2026/03/HK-Feat-In-Tech-Ophthalmic-Instruments-Catalogue-.pdf",
-  "https://www.852featin.com/new/wp-content/uploads/2026/03/HK-Feat-In-Tech-Hair-Transplant-Instruments-Catalogue.pdf",
-  "https://www.852featin.com/new/wp-content/uploads/2026/03/HK-Feat-In-Tech-Plastic-Surgery-Catalogue-.pdf",
-  "https://www.852featin.com/new/wp-content/uploads/2026/03/HK-Feat-In-Tech-Surgical-Instruments-Catalogue-.pdf",
+  "/catalogues/HK Feat In Tech Ophthalmic Instruments Catalogue .pdf",
+  "/catalogues/HK Feat In Tech Hair Transplant Instruments Catalogue.pdf",
+  "/catalogues/HK Feat In Tech Plastic Surgery Catalogue .pdf",
+  "/catalogues/HK Feat In Tech Surgical Instruments Catalogue .pdf",
 ]
 
 const catalogueKeys = ["pdfOphthalmic", "pdfHair", "pdfPlastic", "pdfSurgical"] as const
