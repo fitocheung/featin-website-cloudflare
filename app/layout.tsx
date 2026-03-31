@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hkfeatin.com"),
+  metadataBase: new URL("https://www.852featin.com"),
   title: {
     default: "HK Feat In Technology | Hong Kong Surgical Instruments Supplier",
     template: "%s | HK Feat In Technology",
